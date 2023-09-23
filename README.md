@@ -1,14 +1,8 @@
 # PPChess
 
 pip install numpy
-
 pip install pycryptodome
-
 pip install pygame
-
-
-
-
 
 
 Server.py - This file creates a multi-threaded server that will connect clients to games.
